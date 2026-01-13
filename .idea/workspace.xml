@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b35c1a1a-7cc0-4414-ada8-7977918bd3fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rag_dummy.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/embedder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/retriever.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vectorstore.py" afterDir="false" />
-    </list>
+    <list default="true" id="b35c1a1a-7cc0-4414-ada8-7977918bd3fc" name="Changes" comment="Initial commit: simple RAG retrieval pipeline" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -194,6 +183,19 @@
       <option name="presentableId" value="Default" />
       <updated>1768320597306</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit: simple RAG retrieval pipeline">
+      <option name="closed" value="true" />
+      <created>1768322153304</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768322153304</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit: simple RAG retrieval pipeline" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit: simple RAG retrieval pipeline" />
   </component>
 </project>
